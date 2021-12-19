@@ -5,7 +5,16 @@ body {
     border-style: groove;
     text-align: center;
   }
- h1 {
+
+nav a {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding-bottom: 3px;
+
+
+  }
+ 
+  h1 {
     color: bisque;
     font-family: 'Josefin Sans', sans-serif;
 
